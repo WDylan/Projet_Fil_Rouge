@@ -4,10 +4,13 @@
     margin-left: auto;
     margin-right: auto;
     background: rgba(0, 0, 0, 0.85);
+    opacity: 80%;
+    border-radius: 1%;
 
     & form>h1 {
         text-align: left;
         margin-bottom: 25px;
+        color: #fff;
     }
 
     &_grisatre {
@@ -48,5 +51,18 @@
         border: none;
         cursor: pointer;
         margin-top: 20px;
+        margin-bottom: 20px;
     }
+
+    &_souvenir {
+        color: black;
+    }
+
+    &_labelsouvenir
+    {
+        color:  gray;
+        margin-right: 50%
+        ;
+    }
+
 }

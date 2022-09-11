@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './LoginScreen.scss'
-import SignUpScreen from '../SignUp/SignUpScreen';
+import SignInScreen from '../SignIn/SignInScreen';
 import HomeScreen from '../HomeScreen/HomeScreen';
 
 function LoginScreen() {
@@ -21,7 +21,7 @@ function LoginScreen() {
 
             <div className='loginScreen_body'>
                 {signIn ? (
-                    <SignUpScreen />
+                    <SignInScreen />
                 ) :
                     <>
                         <h1>Films, séries et bien plus en illimité.</h1>
@@ -33,9 +33,12 @@ function LoginScreen() {
                                 <input type="email" placeholder="Adresse e-mail" />
                                 <button onClick={() => setSignIn(true)}
                                     className='loginScreen_Commencer'>
-                                    Commencer
+                                    Commencer 
                                 </button>
                             </form>
+                            <div class="loginScreen_inputError">
+                                L'e-mail est obligatoire !
+                            </div>
                         </div>
                     </>
                 }
