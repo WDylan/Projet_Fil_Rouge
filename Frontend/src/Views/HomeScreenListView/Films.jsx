@@ -1,4 +1,4 @@
-import "./FilmsList.scss"
+import "./Films.scss"
 import React, { useState } from "react";
 import {
     getFilmsApi,
@@ -55,4 +55,4 @@ const FilmsList = () => {
         </div>
     );
 };
-export default FilmsList;
+export default Films;

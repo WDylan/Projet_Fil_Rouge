@@ -2232,11 +2232,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wdyla\\OneDrive\\Bureau\\projet fil rouge\\Projet_Fil_Rouge\\C#\\API_Netflix_ASPNetCore\\API_Netflix_ASPNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\Wdyla\\OneDrive\\Bureau\\projet fil rouge\\Projet_Fil_Rouge\\Backend\\API_Netflix_ASPNetCore\\API_Netflix_ASPNetCore.csproj",
       "projectName": "API_Netflix_ASPNetCore",
-      "projectPath": "C:\\Users\\Wdyla\\OneDrive\\Bureau\\projet fil rouge\\Projet_Fil_Rouge\\C#\\API_Netflix_ASPNetCore\\API_Netflix_ASPNetCore.csproj",
+      "projectPath": "C:\\Users\\Wdyla\\OneDrive\\Bureau\\projet fil rouge\\Projet_Fil_Rouge\\Backend\\API_Netflix_ASPNetCore\\API_Netflix_ASPNetCore.csproj",
       "packagesPath": "C:\\Users\\Wdyla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wdyla\\OneDrive\\Bureau\\projet fil rouge\\Projet_Fil_Rouge\\C#\\API_Netflix_ASPNetCore\\obj\\",
+      "outputPath": "C:\\Users\\Wdyla\\OneDrive\\Bureau\\projet fil rouge\\Projet_Fil_Rouge\\Backend\\API_Netflix_ASPNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

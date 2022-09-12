@@ -1,5 +1,5 @@
 import './App.scss';
-import React from "react";
+import React, {Component} from "react";
 import {
   BrowserRouter,
   Router,
@@ -13,6 +13,7 @@ import LoginScreen from './Views/LoginScreen/LoginScreen'
 import SignInScreen from './Views/SignIn/SignInScreen';
 import SignUp from './Views/SignUp/SignUp';
 import { Home } from '@mui/icons-material';
+import {Series} from './Views/HomeScreenListView/Series';
 
 
 function App() {
@@ -25,7 +26,7 @@ function App() {
         <Route path="/accueil" element={<HomeScreen />} />
         <Route path='inscription' element={<SignUp/>}/>
         <Route path="/films" element={<HomeScreen type="films" />} />
-        <Route path="/series" element={<HomeScreen type="series" />} />
+        <Route path="/series" component={<Series/>} />
       </Routes>
     </BrowserRouter>
     

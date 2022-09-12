@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i+O9eRIMfbs+RSLa/UoeBwhhKqZGcCd+fgfv9+nZf7fIueAtHVlRaJopS5q3FtDXbDxd/E6Jp+iGrQElZLcbXw==",
+  "dgSpecHash": "p2ZrXjsrFmwUP5j/lG0XpPWX58icYLikqXAsTY/Y9cf/SWhHYenYnQjXRoAawyJxkWUe6L6lffuRV92NUlrfGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wdyla\\OneDrive\\Bureau\\projet fil rouge\\Projet_Fil_Rouge\\C#\\API_Netflix_ASPNetCore\\API_Netflix_ASPNetCore.csproj",
+  "projectFilePath": "C:\\Users\\Wdyla\\OneDrive\\Bureau\\projet fil rouge\\Projet_Fil_Rouge\\Backend\\API_Netflix_ASPNetCore\\API_Netflix_ASPNetCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wdyla\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Wdyla\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
